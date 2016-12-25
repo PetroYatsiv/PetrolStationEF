@@ -1,0 +1,15 @@
+D:\project_visual_studio\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe.config
+D:\project_visual_studio\PetrolStation\PetrolStation\bin\Debug\PetrolStation.exe
+D:\project_visual_studio\PetrolStation\PetrolStation\bin\Debug\PetrolStation.pdb
+D:\project_visual_studio\PetrolStation\PetrolStation\bin\Debug\EntityFramework.dll
+D:\project_visual_studio\PetrolStation\PetrolStation\bin\Debug\EntityFramework.SqlServer.dll
+D:\project_visual_studio\PetrolStation\PetrolStation\bin\Debug\EntityFramework.xml
+D:\project_visual_studio\PetrolStation\PetrolStation\bin\Debug\EntityFramework.SqlServer.xml
+D:\project_visual_studio\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csprojResolveAssemblyReference.cache
+D:\project_visual_studio\PetrolStation\PetrolStation\obj\Debug\PetrolStation.Form1.resources
+D:\project_visual_studio\PetrolStation\PetrolStation\obj\Debug\PetrolStation.Properties.Resources.resources
+D:\project_visual_studio\PetrolStation\PetrolStation\obj\Debug\PetrolStation.csproj.GenerateResource.Cache
+D:\project_visual_studio\PetrolStation\PetrolStation\obj\Debug\PetrolStation.exe
+D:\project_visual_studio\PetrolStation\PetrolStation\obj\Debug\PetrolStation.pdb
+D:\project_visual_studio\PetrolStation\PetrolStation\obj\Debug\PetrolStation.AddStation.resources
+D:\project_visual_studio\PetrolStation\PetrolStation\obj\Debug\PetrolStation.AutomobilForm.resources
